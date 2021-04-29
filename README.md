@@ -1,6 +1,6 @@
 # ObjectDetectionApp
 
-A new Flutter project.
+An AI based flutter project for realtime object detection using TensorFlowLite.
 
 ## Getting Started
 

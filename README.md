@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Video lessons <a href='https://www.youtube.com/playlist?list=PLxefhmF0pcPmynNry6IksRAx0vNRns7Q1'> HERE </a>
 
-Written Article <a href='#'>HERE</a>
+Written Article <a href='https://medium.com/@am15hg/real-time-object-detection-using-new-tensorflow-lite-flutter-support-ea41263e801d'>HERE</a>

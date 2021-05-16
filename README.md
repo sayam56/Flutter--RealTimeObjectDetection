@@ -1,6 +1,6 @@
 # ObjectDetectionApp
 
-A new Flutter project.
+An AI based flutter project for realtime object detection using TensorFlowLite.
 
 ## Getting Started
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Video lessons <a href='https://www.youtube.com/playlist?list=PLxefhmF0pcPmynNry6IksRAx0vNRns7Q1'> HERE </a>
+
+Written Article <a href='https://medium.com/@am15hg/real-time-object-detection-using-new-tensorflow-lite-flutter-support-ea41263e801d'>HERE</a>
